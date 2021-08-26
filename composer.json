@@ -13,7 +13,9 @@
             "name": "Helen Volovyk"
         }
     ],
-  
+    "minimum-stability": "dev",
+	 "prefer-stable": true,
+	 
     "require": {
         "swiftmailer/swiftmailer": "^6.0",
         "monolog/monolog": "v2.3.0"
