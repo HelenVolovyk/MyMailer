@@ -4,8 +4,8 @@
 	 "license": "MIT",
 	 "autoload": {
 		"psr-4": {
-			 "Mailer\\": "Mailer/",
-			 "Config\\": "Config/"
+			 "Mailer\\": "helen-volovyk/my-mailer/mailer/",
+			 "Config\\": "helen-volovyk/my-mailer/config/"
 		}
   },
     "authors": [

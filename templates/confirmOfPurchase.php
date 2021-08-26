@@ -12,7 +12,7 @@
 
 		<h3>Hello! Your order is on its way. Your order details can be found below.
 
-			TRACK YOUR ORDER [link]
+			TRACK YOUR ORDER
 
 			ORDER SUMMARY:
 
@@ -22,9 +22,7 @@
 
 			SHIPPING ADDRESS: [address]
 
-			[Table with a list of items]
-
-			ITEMS SHIPPED QTY PRICE</h3>
+		</h3>
 	</div>
 </body>
 
