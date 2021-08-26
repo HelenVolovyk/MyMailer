@@ -7,7 +7,7 @@ use Monolog\Logger;
 
 class Message
 {
-    public static function send(string $subject, string $templateName, array $vars, string $to): void
+    public static function send(string $subject, string $templateName, array $vars, string $to)
     {
         $config = Config::getConfig();
         $transport = new $config['defaultTransportType']();
