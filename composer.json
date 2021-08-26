@@ -1,0 +1,22 @@
+{
+    "name": "helen-volovyk/my-mailer",
+	 "type": "library",
+	 "license": "MIT",
+	 "autoload": {
+		"psr-4": {
+			 "Mailer\\": "Mailer/",
+			 "Config\\": "Config/"
+		}
+  },
+    "authors": [
+        {
+            "name": "Helen Volovyk"
+        }
+    ],
+  
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0",
+        "monolog/monolog": "v2.3.0"
+       
+    }
+}
